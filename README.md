@@ -1,9 +1,8 @@
-
 # 👩🏻‍💻 Caio Ramos 
 
 **`Desenvolvedor FullStack`** 
 
-Me chamo Caio Roberto Rio Lima de Oliveira Ramos , tenho 19 anos, sou natural de Pernambuco e sou Atleta de Futbol Americano. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e Esportes. Busco oportunidades para atuar na area e seguir fazendo o que eu gosto.
+Me chamo Caio Roberto Rio Lima de Oliveira Ramos , tenho 19 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e Esportes, pois sou Atleta de Futbol Americano. Busco oportunidades para atuar na area e seguir fazendo o que eu gosto.
 
 
 <p align="left">
@@ -71,6 +70,14 @@ Me chamo Caio Roberto Rio Lima de Oliveira Ramos , tenho 19 anos, sou natural de
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
 />
 <img 
     align="left" 
