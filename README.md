@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Caio Ramos 
+# 🧑🏻‍💻 Caio Ramos 
 
 **`Desenvolvedor FullStack`** 
 
