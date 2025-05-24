@@ -1,26 +1,24 @@
-# 🧑🏻‍💻 Caio Ramos 
 
-**`Desenvolvedor FullStack`** 
+<h1 align="center">Olá! Eu sou o Caio Ramos 👋</h1>
 
-Me chamo Caio Roberto Rio Lima de Oliveira Ramos , tenho 19 anos e sou natural de Pernambuco. Sou apaixonado por tecnologia e esportes. Estudante de Análise e Desenvolvimento de Sistemas, buscando oportunidades para aplicar e expandir meus conhecimentos em projetos desafiadores.
-
-
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-ramos-dev/" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
-  
-
+<p align="center">
+  <strong>Desenvolvedor Full Stack</strong><br>
+  Apaixonado por tecnologia, esportes e desafios. Sempre em busca de novas oportunidades para crescer e aplicar meus conhecimentos.
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 👨‍💻 Sobre mim
+
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 👨‍🏫 Em busca de um Estagio na área de TI
+- 🧠 Estudando atualmente: HTML, CSS, JavaScript, Java, IAs, Git e GitHub
+- 🏈 Wide Receiver no tempo livre | Focado em performance e recuperação física
+- 🌍 Natural de Pernambuco 🇧🇷
+
+---
+
+### 🚀 Linguagens & Tecnologias
 
 <img 
     align="left" 
@@ -28,8 +26,8 @@ Me chamo Caio Roberto Rio Lima de Oliveira Ramos , tenho 19 anos e sou natural d
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+    />
 <img 
     align="left" 
     alt="CSS" 
@@ -37,7 +35,7 @@ Me chamo Caio Roberto Rio Lima de Oliveira Ramos , tenho 19 anos e sou natural d
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+    />
 <img 
     align="left" 
     alt="JavaScript" 
@@ -45,24 +43,15 @@ Me chamo Caio Roberto Rio Lima de Oliveira Ramos , tenho 19 anos e sou natural d
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+    />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="Azure" 
+    title="Azure"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
+    />
 <img 
     align="left" 
     alt="Git" 
@@ -70,15 +59,15 @@ Me chamo Caio Roberto Rio Lima de Oliveira Ramos , tenho 19 anos e sou natural d
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+    />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+    />
 <img 
     align="left" 
     alt="Python" 
@@ -91,23 +80,27 @@ Me chamo Caio Roberto Rio Lima de Oliveira Ramos , tenho 19 anos e sou natural d
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📈 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=CaiorrRamos&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaiorrRamos&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiorrRamos&layout=compact&theme=tokyonight"/>
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiorrRamos&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=5" 
-  />
+---
 
-</p>
+### 📂 Projetos em Destaque
+
+- [Receita-bolo-de-cenoura](https://github.com/CaiorrRamos/receita-bolo-de-cenoura) - Receita de bolo de Cenoura
+- Em breve: projetos com Java e integração de redes
+
+---
+
+### 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-ramos-dev/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Instagram](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=pink)](@Caiorr_)
+---
+
+<p align="center">🚀 "O sucesso é a soma de pequenos esforços repetidos dia após dia." – Robert Collier</p>
