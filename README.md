@@ -99,8 +99,9 @@
 ### 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-ramos-dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![Instagram](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=pink)](@Caiorr_)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiorobertorio@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/caiorr_)
+
 ---
 
 <p align="center">🚀 "O sucesso é a soma de pequenos esforços repetidos dia após dia." – Robert Collier</p>
