@@ -6,7 +6,12 @@
   Apaixonado por tecnologia, esportes e desafios. Sempre em busca de novas oportunidades para crescer e aplicar meus conhecimentos.
 </p>
 
+<p align="center">
+  🇺🇸  Check my <a href="https://github.com/CaiorrRamos/CaiorrRamos-English" target="_blank">English version here</a>.
+</p>
+
 ---
+
 
 ### 👨‍💻 Sobre mim
 
