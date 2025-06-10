@@ -97,6 +97,7 @@
 ### 📂 Projetos em Destaque
 
 - [Receita-bolo-de-cenoura](https://github.com/CaiorrRamos/receita-bolo-de-cenoura) - Receita de bolo de Cenoura
+- [Ebook:Java-&-IA](https://github.com/CaiorrRamos/project-ebook-java-ia.git) - Ebook sobre integraão de Java & IA
 - Em breve: projetos com Java e integração de redes
 
 ---
