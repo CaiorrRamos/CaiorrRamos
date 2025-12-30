@@ -16,9 +16,9 @@
 ### 👨‍💻 Sobre mim
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 👨‍🏫 Em busca de um Estagio na área de TI
-- 🧠 Estudando atualmente: HTML, CSS, JavaScript, Java, IAs, Git e GitHub
-- 🏈 Wide Receiver no tempo livre | Focado em performance e recuperação física
+- 👨‍🏫 Em busca de um Estagiario da MeetTecnologia
+- 🧠 Estudando atualmente: Python, JavaScript, Java, IAs, Git e GitHub
+- 🏈 Wide Receiver no tempo livre | Focado em performance
 - 🌍 Natural de Pernambuco 🇧🇷
 
 ---
