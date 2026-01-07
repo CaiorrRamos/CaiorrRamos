@@ -85,19 +85,12 @@
 <br/>
 <br/>
 
-### 📈 Estatísticas
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CaiorrRamos&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiorrRamos&layout=compact&theme=tokyonight"/>
-</div>
-
----
 
 ### 📂 Projetos em Destaque
 
-- [Receita-bolo-de-cenoura](https://github.com/CaiorrRamos/receita-bolo-de-cenoura) - Receita de bolo de Cenoura
-- [Ebook:Java-&-IA](https://github.com/CaiorrRamos/project-ebook-java-ia.git) - Ebook sobre integraão de Java & IA
+- [Receita-bolo-de-cenoura](https://github.com/caiorrramos/receita-bolo-de-cenoura) - Receita de bolo de Cenoura
+- [Ebook:Java-&-IA](https://github.com/caiorrramos/project-ebook-java-ia.git) - Ebook sobre integraão de Java & IA
 - Em breve: projetos com Java e integração de redes
 
 ---
