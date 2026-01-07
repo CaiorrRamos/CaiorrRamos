@@ -85,7 +85,11 @@
 <br/>
 <br/>
 
+---
+<img src="https://raw.githubusercontent.com/CaiorrRamos/CaiorrRamos/output/snake.svg" alt="Snake animation" />
 
+###
+---
 
 ### 📂 Projetos em Destaque
 
