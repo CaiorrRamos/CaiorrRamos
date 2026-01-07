@@ -86,8 +86,7 @@
 <br/>
 
 ---
-<img src="https://raw.githubusercontent.com/CaiorrRamos/CaiorrRamos/output/snake.svg" alt="Snake animation" />
-
+![snake gif](https://github.com/caiorrramos/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 ###
 ---
 
