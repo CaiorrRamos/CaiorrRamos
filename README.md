@@ -97,10 +97,31 @@
 
 ### 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-ramos-dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiorobertorio@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/caiorr_)
+<div align="left">
+  <a href="https://www.linkedin.com/in/caio-ramos-dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+         width="52" height="40" alt="LinkedIn" />
+  </a>
+
+  <a href="https://discordapp.com/users/caiorrramos" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
+         width="52" height="40" alt="Discord" />
+  </a>
+
+  <a href="mailto:caiorobertorio@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+         width="52" height="40" alt="Gmail" />
+  </a>
+
+  <a href="https://www.instagram.com/caiorr_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+         width="52" height="40" alt="Instagram" />
+  </a>
 
 ---
 
 <p align="center">🚀 "O sucesso é a soma de pequenos esforços repetidos dia após dia." – Robert Collier</p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CaiorrRamos.CaiorrRamos&"  />
+</div>
