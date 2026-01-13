@@ -3,7 +3,7 @@
 
 <p align="center">
   <strong>Desenvolvedor Full Stack</strong><br>
-  Apaixonado por tecnologia, esportes e desafios. Sempre em busca de novas oportunidades para crescer e aplicar meus conhecimentos.
+  Apaixonado por tecnologia, esportes e desafios. Muito cusioso e sempre em busca de novas oportunidades para crescer e aplicar meus conhecimentos.
 </p>
 
 <p align="center">
