@@ -1,135 +1,53 @@
+# Olá! Eu sou o Caio Ramos 👋
 
-<h1 align="center">Olá! Eu sou o Caio Ramos 👋</h1>
+## Desenvolvedor Full Stack
 
-<p align="center">
-  <strong>Desenvolvedor Full Stack</strong><br>
-  Apaixonado por tecnologia, esportes e desafios. Muito cusioso e sempre em busca de novas oportunidades para crescer e aplicar meus conhecimentos.
-</p>
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia, resolução de problemas e aprendizado contínuo. Busco oportunidades para evoluir como desenvolvedor, aplicar boas práticas de engenharia de software e gerar impacto real por meio da tecnologia.
 
-<p align="center">
-  🇺🇸  Check my <a href="https://github.com/CaiorrRamos/CaiorrRamos-English" target="_blank">English version here</a>.
-</p>
+🔹 Perfil focado em **crescimento técnico**, **disciplina** e **performance**, tanto no desenvolvimento quanto fora dele.
 
 ---
 
+## 👨‍💻 Sobre mim
 
-### 👨‍💻 Sobre mim
-
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 👨‍🏫 Estagiario da MeetTecnologia
-- 🧠 Estudando atualmente: Python, JavaScript, Java, IAs, Git e GitHub
-- 🏈 Wide Receiver no tempo livre | Focado em performance
-- 🌍 Natural de Pernambuco 🇧🇷
-
----
-
-### 🚀 Linguagens & Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-    />
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-    />
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-    />
-<img 
-    align="left" 
-    alt="Azure" 
-    title="Azure"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
-    />
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-    />
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-    />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaiorrRamos/CaiorrRamos/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaiorrRamos/CaiorrRamos/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CaiorrRamos/CaiorrRamos/output/github-contribution-grid-snake.svg">
-</picture>
-
-###
----
-
-### 📂 Projetos em Destaque
-
-- [Receita-bolo-de-cenoura](https://github.com/caiorrramos/receita-bolo-de-cenoura) - Receita de bolo de Cenoura
-- [Ebook:Java-&-IA](https://github.com/caiorrramos/project-ebook-java-ia.git) - Ebook sobre integraão de Java & IA
-- Em breve: projetos com Java e integração de redes
+* 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
+* 💼 Estagiário na **Meet Tecnologia**
+* 📚 Estudando atualmente: **Java, Python, JavaScript, Git/GitHub e Inteligência Artificial**
+* 🏈 **Wide Receiver** no tempo livre — foco em performance, constância e trabalho em equipe
+* 📍 Pernambuco, Brasil
 
 ---
 
-### 📬 Contato
+## 🛠️ Tecnologias & Ferramentas
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/caio-ramos-dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-         width="52" height="40" alt="LinkedIn" />
-  </a>
-
-  <a href="https://discordapp.com/users/caiorrramos" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
-         width="52" height="40" alt="Discord" />
-  </a>
-
-  <a href="mailto:caiorobertorio@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-         width="52" height="40" alt="Gmail" />
-  </a>
-
-  <a href="https://www.instagram.com/caiorr_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
-         width="52" height="40" alt="Instagram" />
-  </a>
+* **Back-end:** Java | Python
+* **Front-end:** JavaScript | HTML | CSS
+* **Versionamento:** Git | GitHub
+* **Outros:** Lógica de Programação | POO | APIs REST (em aprendizado)
 
 ---
 
-<p align="center">🚀 "O sucesso é a soma de pequenos esforços repetidos dia após dia." – Robert Collier</p>
+## 🚀 Objetivos
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CaiorrRamos.CaiorrRamos&"  />
-</div>
+* Consolidar fundamentos em **desenvolvimento Full Stack**
+* Criar projetos práticos e bem documentados
+* Evoluir em **boas práticas**, **arquitetura** e **clean code**
+* Construir uma base sólida para atuar profissionalmente na área de tecnologia
+
+---
+
+## 🌐 Idioma
+
+* 🇧🇷 Português (nativo)
+* 🇺🇸 Inglês (em desenvolvimento)
+
+---
+
+📫 **Conecte-se comigo:**
+
+* GitHub: [https://github.com/CaiorrRamos](https://github.com/CaiorrRamos)
+* LinkedIn: [https://www.linkedin.com/in/caio-ramos-dev/](https://www.linkedin.com/in/caio-ramos-dev/)
+
+---
+
+> *"Disciplina, constância e evolução contínua."*
