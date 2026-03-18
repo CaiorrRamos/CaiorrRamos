@@ -40,8 +40,9 @@ Currently working on strengthening my skills in **Full Stack Development**, with
 
 - 🔹 <a href="https://github.com/CaiorrRamos/bootcampManagementDomainModel.git">**bootcampManagementDomainModel**</a> — _Modelagem do domínio de uma plataforma educacional no estilo Bootcamp_
 - 🔹 <a href="https://github.com/CaiorrRamos/Smart-Lumen.git">**Smart-Lumen**</a> — _aplicação web moderna e responsiva para monitoramento em tempo real de postes de energia elétrica_
+<p>
 📌 *More projects coming soon...*
-
+</p>
 ---
 
 ## 📊 GitHub Stats
