@@ -1,74 +1,72 @@
-# Olá! Eu sou o Caio Ramos 👋
+# Hi 👋, I'm Caio Ramos
 
-## Desenvolvedor Full Stack
+🚀 **Software Enginieer | Full Stack Developer (in progress) | Java & AI Focused**  
+🇧🇷 Brazil
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia, resolução de problemas e aprendizado contínuo. Busco oportunidades para evoluir como desenvolvedor, aplicar boas práticas de engenharia de software e gerar impacto real por meio da tecnologia.
+I’m a developer in continuous evolution, focused on building **real-world solutions**, improving **technical foundations**, and applying **clean code and best practices**.
 
-🔹 Perfil focado em **crescimento técnico**, **disciplina** e **performance**, tanto no desenvolvimento quanto fora dele.
-
----
-
-## 👨‍💻 Sobre mim
-
-* 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
-* 💼 Estagiário na **Meet Tecnologia**
-* 📚 Estudando atualmente: **Java, Python, JavaScript, Git/GitHub e Inteligência Artificial**
-* 🏈 **Wide Receiver** no tempo livre — foco em performance, constância e trabalho em equipe
-* 📍 Pernambuco, Brasil
+Currently working on strengthening my skills in **Full Stack Development**, with an emphasis on **Java, backend architecture, and intelligent systems**.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🧠 What I’m focused on
 
+- 🏗️ Building solid backend foundations with Java
+- ⚡ Learning Full Stack development (frontend + backend)
+- 🤖 Exploring Artificial Intelligence applied to real problems
+- 🧩 Clean Code, SOLID principles & good practices
+- 🔄 Continuous improvement and high-performance mindset
 
+---
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40"/>
-          
-          
-          
-          
+## 👨‍💻 About me
+
+- 🎓 Software Enginieer  student
+- 💼 Intern at **Meet Tecnologia**
+- 📍 Pernambuco, Brazil
+- 🏈 Wide Receiver | discipline, consistency and performance mindset applied to tech
+
+---
+
+## 🛠️ Tech Stack
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+
+---
+
+## 🚀 Projects
+
+> Here are some projects that reflect my evolution as a developer:
+
+- 🔹 <a href="https://github.com/CaiorrRamos/bootcampManagementDomainModel.git">**bootcampManagementDomainModel**</a> — _Modelagem do domínio de uma plataforma educacional no estilo Bootcamp_
+- 🔹 <a href="https://github.com/CaiorrRamos/Smart-Lumen.git">**Smart-Lumen**</a> — _aplicação web moderna e responsiva para monitoramento em tempo real de postes de energia elétrica_
+📌 *More projects coming soon...*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CaiorrRamos&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiorrRamos&layout=compact&theme=tokyonight" />
 </p>
-  
- 
-          
-          
-          
 
 ---
 
-## 🚀 Objetivos
+## 🌍 Languages
 
-* Consolidar fundamentos em **desenvolvimento Full Stack**
-* Criar projetos práticos e bem documentados
-* Evoluir em **boas práticas**, **arquitetura** e **clean code**
-* Construir uma base sólida para atuar profissionalmente na área de tecnologia
+- 🇧🇷 Portuguese (Native)
+- 🇺🇸 English (Improving)
 
 ---
 
-## 🌐 Idioma
+## 🌐 Connect with me
 
-* 🇧🇷 Português (nativo)
-* 🇺🇸 Inglês (em desenvolvimento)
-
----
-
-📫 **Conecte-se comigo:**
-
-* GitHub: [https://github.com/CaiorrRamos](https://github.com/CaiorrRamos)
-* LinkedIn: [https://www.linkedin.com/in/caio-ramos-dev/](https://www.linkedin.com/in/caio-ramos-dev/)
+- GitHub: https://github.com/CaiorrRamos  
+- LinkedIn: https://www.linkedin.com/in/caio-ramos-dev/
 
 ---
 
-> *"Disciplina, constância e evolução contínua."*
+## 🚀 Philosophy
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaiorrRamos/CaiorrRamos/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaiorrRamos/CaiorrRamos/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CaiorrRamos/CaiorrRamos/output/github-contribution-grid-snake.svg">
-</picture>
+> _"Discipline, consistency, and continuous evolution."_
