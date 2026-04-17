@@ -1,6 +1,6 @@
 # Hi 👋, I'm Caio Ramos
 
-🚀 **Software Enginieer | Full Stack Developer (in progress) | Java, Javascript & AI Focused**  
+🚀 **Software Enginieer & UI/UX Designer| Full Stack Developer (in progress) | Java, Javascript & AI Focused**  
 🇧🇷 Brazil
 
 I’m a developer in continuous evolution, focused on building **real-world solutions**, improving **technical foundations**, and applying **clean code and best practices**.
