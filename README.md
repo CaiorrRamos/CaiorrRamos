@@ -1,30 +1,20 @@
 # Hi 👋, I'm Caio Ramos
+> Full Stack Development & UX/UI Design | Software Engineering Student | Founder at RM Agency
 
-🚀 **Software Enginieer & UI/UX Designer| Full Stack Developer (in progress) | Java, Javascript & AI Focused**  
-🇧🇷 Brazil
+🇧🇷 Recife, Brazil
 
-I’m a developer in continuous evolution, focused on building **real-world solutions**, improving **technical foundations**, and applying **clean code and best practices**.
+I build modern web applications, landing pages and digital solutions focused on performance, user experience and real business impact.
 
-Currently working on strengthening my skills in **Full Stack Development**, with an emphasis on **Java, backend architecture, and intelligent systems**.
-
----
-
-## 🧠 What I’m focused on
-
-- 🏗️ Building solid backend foundations with Java
-- ⚡ Learning Full Stack development (frontend + backend)
-- 🤖 Exploring Artificial Intelligence applied to real problems
-- 🧩 Clean Code, SOLID principles & good practices
-- 🔄 Continuous improvement and high-performance mindset
+Currently working with web development and continuously improving my skills in backend development, software architecture, automation and artificial intelligence.
 
 ---
 
-## 👨‍💻 About me
-
-- 🎓 Software Enginieer  student
-- 💼 Intern at **Meet Tecnologia**
-- 📍 Pernambuco, Brazil
-- 🏈 Wide Receiver | discipline, consistency and performance mindset applied to tech
+## 🚀 What I do
+- Develop web applications and business solutions
+- Build responsive and high-conversion landing pages
+- Integrate REST APIs and backend services
+- Design modern user experiences (UI/UX)
+- Create automation workflows and productivity solutions
 
 ---
 
@@ -44,9 +34,10 @@ Currently working on strengthening my skills in **Full Stack Development**, with
 > Here are some projects that reflect my evolution as a developer:
 
 - 🔹 <a href="https://github.com/CaiorrRamos/bootcampManagementDomainModel.git">**bootcampManagementDomainModel**</a> — _Modelagem do domínio de uma plataforma educacional no estilo Bootcamp_
+- 🔹 <a href="https://github.com/CaiorrRamos/hackathon-suape.git">**Porto Insight AI**</a> —_Dashboard Inteligente para Monitoramento e Gestão Operacional do Porto de Suape_
 - 🔹 <a href="https://github.com/CaiorrRamos/Smart-Lumen.git">**Smart-Lumen**</a> — _aplicação web moderna e responsiva para monitoramento em tempo real de postes de energia elétrica_
 <p>
-📌 *More projects coming soon...*
+📌 More projects coming soon...
 </p>
 ---
 
@@ -65,9 +56,8 @@ Currently working on strengthening my skills in **Full Stack Development**, with
 - 🇺🇸 English (Improving)
 
 ---
-## Certicates
-
-
+## Certificates
+> link: https://drive.google.com/drive/folders/1DHDpbFdPHRJQFR9Cm_Yec7ViQMCo3miL?usp=drive_link
 --- 
 ## 🌐 Connect with me
 
@@ -77,6 +67,6 @@ Currently working on strengthening my skills in **Full Stack Development**, with
 ---
 
 <p align="center"
-> "Discipline, consistency, and continuous evolution."
+> "Building knowledge, one commit at a time."
 </p>
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaiorrRamos/CaiorrRamos/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaiorrRamos/CaiorrRamos/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CaiorrRamos/CaiorrRamos/output/github-contribution-grid-snake.svg"> </picture>
